@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="2560"
-   height="1440"
-   viewBox="0 0 677.33333 380.99998"
+   width="2048"
+   height="1152"
+   viewBox="0 0 541.86666 304.79998"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -101,18 +101,18 @@
        id="clipPath5924-7"><path
          d="m 23030,0 v 7210 h 3970 V 0 Z"
          id="path5922-0" /></clipPath></defs><rect
-     style="display:inline;fill:#2e3440;fill-opacity:1;stroke-width:8.8338;paint-order:fill markers stroke"
+     style="display:inline;fill:#2e3440;fill-opacity:1;stroke-width:7.06704;paint-order:fill markers stroke"
      id="rect4131"
      x="0"
      y="0"
-     width="677.33331"
-     height="381" /><g
+     width="541.86664"
+     height="304.79999" /><g
      id="g639"
-     transform="matrix(5.4659687,0,0,5.4659687,-118.72108,-101.07151)"
+     transform="matrix(3.0480981,0,0,3.0480981,15.870997,-6.5072763)"
      style="stroke:none"><g
        id="g5529"
        style="stroke:none"
-       transform="translate(25.705483,-5.0145005)"><text
+       transform="translate(25.705483,-6.4148653)"><text
          xml:space="preserve"
          style="font-weight:bold;font-size:1.4062px;font-family:'Reggae One';-inkscape-font-specification:'Reggae One Bold';text-align:center;text-anchor:middle;fill:#eceff4;stroke:none;stroke-width:0.0977844;paint-order:fill markers stroke"
          x="84.054169"
@@ -134,7 +134,7 @@
            x="80.616699"
            y="63.418568">щосуботи о 19:00 за Києвом</tspan></text></g><g
        id="g507"
-       transform="matrix(0.99997034,0,0,0.99997034,-16.055495,3.4120425)"
+       transform="matrix(0.99997034,0,0,0.99997034,-16.055495,2.2022343)"
        style="stroke:none"><text
          xml:space="preserve"
          id="text1"
@@ -156,7 +156,7 @@
              style="font-family:Ermilov;-inkscape-font-specification:Ermilov"
              id="tspan6">технічно-популярний подкаст</tspan></tspan></text></g><g
        id="g879"
-       transform="matrix(0.28767036,0,0,0.28767036,40.183243,40.962618)"
+       transform="matrix(0.28767036,0,0,0.28767036,40.183243,39.75281)"
        style="stroke:none"><path
          id="path4182"
          style="fill:#eceff4;fill-opacity:1;stroke:none;stroke-width:0.406901"
@@ -184,11 +184,12 @@
              y="10" /></g></g></g></g><metadata
      id="metadata1"><rdf:RDF><cc:Work
          rdf:about=""><cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/" /></cc:Work><cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc/4.0/"><cc:permits
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/"><cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
            rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
            rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
            rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:prohibits
            rdf:resource="http://creativecommons.org/ns#CommercialUse" /><cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" /></cc:License></rdf:RDF></metadata></svg>
